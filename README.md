@@ -4,10 +4,7 @@ ASL Connect is a real-time American Sign Language (ASL) to text converter. It us
 Features
 Real-time Translation: Converts ASL gestures to text in real-time. Responsive Design: Works on various screen sizes and devices. Gesture Recognition: Recognizes multiple ASL gestures and translates them into corresponding text. User-friendly Interface: Simple and intuitive interface for easy use.
 
-Demo
-You can try out ASL Connect here.
 
-https://aruthra-vimala.github.io/Scribble-Pad/
 
 Installation
 To run ASL Connect locally, follow these steps:

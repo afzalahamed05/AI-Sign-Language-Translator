@@ -9,9 +9,6 @@ Real-time Translation: Converts ASL gestures to text in real-time. Responsive De
 Installation
 To run ASL Connect locally, follow these steps:
 
-Clone the repository:
-git clone https://github.com/aruthra-vimala/ASL-Connect.git
-
 Navigate to the project directory:
 cd ASL-Connect
 
